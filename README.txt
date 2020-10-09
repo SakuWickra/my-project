@@ -1,7 +1,7 @@
 # This program adds two numbers
 
-n1 = 1.5
-n2 = 6.3
+n1 = int(input("Enter first Number:")
+n2 = int(input("Enter second Number:")
 
 # Add two numbers
 sum = n1 + n2
